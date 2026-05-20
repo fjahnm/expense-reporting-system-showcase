@@ -62,7 +62,7 @@ The demonstration includes:
 
 The video below demonstrates the complete operational flow of the platform, including employee expense submission, manager approvals, financial validation, reporting, and mobile workflows.
 
-[![Watch the full demonstration](./assets/images/system-preview.png)](./assets/video/demonstration.mp4)
+[![Watch the full demonstration](./assets/image/sgs.png)](./assets/video/demonstration.mp4)
 
 ---
 
