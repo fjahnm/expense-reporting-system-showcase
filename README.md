@@ -17,7 +17,7 @@ The project was developed as an enterprise software solution proposal focused on
 The software development responsibilities were primarily handled by:
 
 - Felipe Macedo
-- Hector
+- Hector Peres
 
 Main development responsibilities included:
 
@@ -60,6 +60,9 @@ The demonstration includes:
 
 ## Full Demonstration Video
 
+The video below demonstrates the complete operational flow of the platform, including employee expense submission, manager approvals, financial validation, reporting, and mobile workflows.
+
+[![Watch the full demonstration](./assets/images/system-preview.png)](./assets/video/demonstration.mp4)
 
 ---
 
@@ -573,7 +576,7 @@ The platform includes integrated manuals designed to support onboarding, operati
 
 # Author
 
-Felipe Macedo
+Felipe Macedo and Hector Peres
 
 Developer focused on enterprise systems, APIs, integrations, financial governance, workflow automation, and strategic software architecture.
 
